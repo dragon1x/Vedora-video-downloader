@@ -1,5 +1,13 @@
 🎬 Vedora
+<p align="center">
+  <img src="video-downloader/logo.webp" width="180" alt="Vedora Logo">
+</p>
 
+<h1 align="center">Vedora</h1>
+
+<p align="center">
+  Download. Save. Enjoy.
+</p>
 Download. Save. Enjoy.
 
 Vedora is a modern Android video and audio downloader powered by "yt-dlp" (https://github.com/yt-dlp/yt-dlp).
