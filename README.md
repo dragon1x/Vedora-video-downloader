@@ -1,6 +1,6 @@
 🎬 Vedora
 <p align="center">
-  <img src="video-downloader/logo.webp" width="180" alt="Vedora Logo">
+  <img src="/logo.webp" width="180" alt="Vedora Logo">
 </p>
 
 <h1 align="center">Vedora</h1>
